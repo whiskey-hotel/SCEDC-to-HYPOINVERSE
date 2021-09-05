@@ -93,16 +93,16 @@ def station_formatting(station_info):
 
 
 # The SCEDC phase file you want to alter
-scedc_phase_file = open('scedc_ws_phase_copy.txt', 'r')
+scedc_phase_file = open('STP Data\\scedc_ws_phase_copy.txt', 'r')
 scedc_phase = list(scedc_phase_file)
 # The returned HYPOINVERSE phase file
-hypo_phase = open('Converted_scedc_phase_info.txt', 'w')
+hypo_phase = open('HYPOINVERSE Data\\Converted_scedc_phase_info.txt', 'w')
 # The SCEDC station file
-scedc_station_file = open('scedc_ws_station.txt', 'r')
+scedc_station_file = open('STP Data\\scedc_ws_station.txt', 'r')
 scedc_station = list(scedc_station_file)
 #
 # The returned HYPOINVERSE station file for this event
-hypo_station = open('Converted_scedc_station_info.txt', 'w')
+hypo_station = open('HYPOINVERSE Data\\Converted_scedc_station_info.txt', 'w')
 
 ################ Header formating #################
 
