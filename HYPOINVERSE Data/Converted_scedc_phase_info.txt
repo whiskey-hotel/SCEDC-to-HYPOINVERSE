@@ -1,0 +1,55 @@
+201601010012506534 1093117 2497  738085                                                                                                   37509232
+FON  CI  HNN       2016010112              393ES             941                                              --
+CJM  CI  HHZ IPD   2016010112  223                           992                                              --
+CJM  CI  HHE       2016010112              413ES             992                                              --
+IPT  CI  HHZ EP    2016010112  263                          1217                                              --
+IPT  CI  HHE       2016010112              471ES            1217                                              --
+CSP  WR  EHZ EP    2016010112  263                          1392                                              --
+SBPX CI  BHZ EP    2016010112  334                          1758                                              --
+SBPX CI  BHE       2016010112              597ES            1758                                              --
+LPC  CI  HHZ IPD   2016010112  363                          1899                                              --
+LPC  CI  HHE       2016010112              646ES            1899                                              --
+LUG  CI  HHZ EP    2016010112  395                          2088                                              --
+LUG  CI  HHE       2016010112              696ES            2088                                              --
+RVR  CI  HHZ EP    2016010112  388                          2129                                              --
+RVR  CI  HHN       2016010112              680ES            2129                                              --
+BFS  CI  HHZ EP    2016010112  418                          2315                                              --
+BFS  CI  HHN       2016010112              709ES            2315                                              --
+RSB  CI  HNZ EP    2016010112  480                          2463                                              02
+RSB  CI  HNN       2016010112              743ES            2463                                              02
+TA2  CI  HHZ EP    2016010112  598                          3276                                              --
+TA2  CI  HHN       2016010112             1048ES            3276                                              --
+PSR  CI  HHZ EP    2016010112  672                          3731                                              --
+PSR  CI  HHN       2016010112             1149ES            3731                                              --
+PEC  WR  EHZ EP    2016010112  671                          3985                                              --
+SME  CI  EHZ EP    2016010112  683                          4030                                              --
+LMS  CI  HHZ EP    2016010112  686                          4061                                              --
+LMS  CI  HHE       2016010112             1194ES            4061                                              --
+PEM  CI  EHZ EP    2016010112  736                          4176                                              --
+XTL  CI  EHZ IPU   2016010112  727                          4291                                              --
+FHO  CI  HHZ EP    2016010112  760                          4523                                              --
+FHO  CI  HHE       2016010112             1387ES            4523                                              --
+HOL  CI  HHZ EP    2016010112  848                          4998                                              --
+HOL  CI  HHE       2016010112             1452ES            4998                                              --
+JNH2 CI  HHZ IPD   2016010112  976                          5775                                              --
+JNH2 CI  HHN       2016010112             1673ES            5775                                              --
+RKMO CI  HHZ EP    2016010112 1019                          5917                                              --
+RKMO CI  HHN       2016010112             1715ES            5917                                              --
+ELS2 CI  HHZ EP    2016010112  997                          5924                                              --
+ELS2 CI  HHE       2016010112             1695ES            5924                                              --
+5030 NP  EHZ EP    2016010112 1054                          6491                                              --
+HMT2 CI  HHZ EP    2016010112 1078                          6501                                              --
+HMT2 CI  HHN       2016010112             1863ES            6501                                              --
+SBB2 CI  HHZ EP    2016010112 1113                          6761                                              --
+SBB2 CI  HHN       2016010112             1901ES            6761                                              --
+DGR  CI  HHZ EP    2016010112 1157                          6995                                              --
+DGR  CI  HHE       2016010112             1990ES            6995                                              --
+POB2 CI  HHZ EP    2016010112 1196                          7123                                              --
+POB2 CI  HHE       2016010112             2014ES            7123                                              --
+BAC  CI  EHZ EP    2016010112 1205                          7213                                              --
+BAC  CI  HNN       2016010112             2065ES            7213                                              --
+MSC  CI  HHZ EP    2016010112 1248                          7239                                              --
+MSC  CI  HHN       2016010112             2170ES            7239                                              --
+PUT  CI  EHZ EP    2016010112 1255                          7604                                              --
+HYS  CI  HHZ EP    2016010112 1307                          7721                                              --
+                                                                37509232

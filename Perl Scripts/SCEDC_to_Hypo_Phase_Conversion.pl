@@ -8,15 +8,16 @@
 #			  Hypoinverse phase file format.
 #			  Position of each variable is denoted in the STP 
 #			  to HYPOINVERSE guide.
+#Version:     1.0.1
 
 use strict;
 use warnings;
 use Data::Dumper qw(Dumper);
 
-my $filename = 'scedc_ws_phase_copy.txt'; #The phase file you want to alter
-my $newfilename = 'Converted_scedc_phase_info.txt'; #The name of the new phase file 
-my $main_station = 'Converted_scedc_station_info.txt'; #Station file you're looking inside
-my $phase_station = 'Event_37509232_station_file'; #Station file your creating for this event
+my $filename = '../STP Data/scedc_ws_phase_copy.txt'; #The phase file you want to alter
+my $newfilename = '../HYPOINVERSE Data/Converted_scedc_phase_info.txt'; #The name of the new phase file 
+my $main_station = '../HYPOINVERSE Data/Converted_scedc_station_info.txt'; #Station file you're looking inside
+my $phase_station = '../STP Data/Event_37509232_station_file'; #Station file your creating for this event
 truncate $phase_station, 0;
 
 open(my $FH,'<',$filename)or die "Could not open file '$filename' $!";

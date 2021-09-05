@@ -10,7 +10,7 @@
 #
 # Created:     06/05/2021
 #
-# Version:     0.1.0
+# Version:     2.0.1
 # -------------------------------------------------------------------------------
 
 import re
@@ -30,13 +30,13 @@ string into a list.
 
 def DeciRemove(num, multiplier, type):
     """The Hypo header cannot have decimals in it.
-    This function shifts the decimal of num based on 
-    the multiplier. The returned data type can be manipulated 
-    further with string formatting methods. 
+    This function shifts the decimal of num based on
+    the multiplier. The returned data type can be manipulated
+    further with string formatting methods.
 
     Args:
         num (str or float):
-        multiplier (int): 
+        multiplier (int):
         type (any): The data type to return
     """
     num = round(float(num) * multiplier)

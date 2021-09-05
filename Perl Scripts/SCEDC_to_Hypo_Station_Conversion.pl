@@ -8,14 +8,15 @@
 #			  Hypoinverse station file format.
 #			  Position of each variable is denoted in the STP 
 #			  to HYPOINVERSE guide.
+#Version:     1.0.1
 
 use strict;
 use warnings;
 
 
 
-my $filename = 'scedc_ws_station.txt'; #The file you want to alter
-my $newfilename = 'Converted_scedc_station_info.txt'; #The name of the new file 
+my $filename = '../STP Data/scedc_ws_station.txt'; #The file you want to alter
+my $newfilename = '../HYPOINVERSE Data/Converted_scedc_station_info.txt'; #The name of the new file 
 
 open(my $FH,'<',$filename)or die "Could not open file '$filename' $!";
 
